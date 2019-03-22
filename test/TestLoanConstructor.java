@@ -19,6 +19,12 @@ public class TestLoanConstructor {
         assertEquals(10, loan.getRate(),0.00);
     }
 
+    //Default Constructor Test -- Added after code coverage
+    @Test
+    public void constructorTestDefault() {
+        new Loan();
+    }
+
     //Public method tests
 
     //test getAmount method
