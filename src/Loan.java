@@ -35,7 +35,7 @@ public class Loan {
 //          double  getPeriod   (           )
 //          int     getRate     (           )
 //
-//          double  getMontlyPayment(       )
+//          double  getMonthlyPayment(       )
 //          double  getTotalPayment (       )
 //
 //      Private methods

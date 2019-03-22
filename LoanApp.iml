@@ -27,5 +27,70 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Practicals/powermock-easymock-junit-1.7.1/powermock-easymock-junit-1.7.1/cglib-nodep-2.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Practicals/powermock-easymock-junit-1.7.1/powermock-easymock-junit-1.7.1/easymock-3.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Practicals/powermock-easymock-junit-1.7.1/powermock-easymock-junit-1.7.1/hamcrest-core-1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Practicals/powermock-easymock-junit-1.7.1/powermock-easymock-junit-1.7.1/javassist-3.21.0-GA.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Practicals/powermock-easymock-junit-1.7.1/powermock-easymock-junit-1.7.1/junit-4.12.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Practicals/powermock-easymock-junit-1.7.1/powermock-easymock-junit-1.7.1/objenesis-2.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Practicals/powermock-easymock-junit-1.7.1/powermock-easymock-junit-1.7.1/powermock-easymock-1.7.1-full.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../Practicals/powermock-easymock-junit-1.7.1/powermock-easymock-junit-1.7.1/powermock-easymock-1.7.1-full.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
   </component>
 </module>
